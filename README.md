@@ -25,7 +25,7 @@ Inspiration from: https://youtu.be/ZXFmZsv0Ddw
 *GauGAN gif #1 (original project) - drive*
 
 ![gaugan_gif2](https://user-images.githubusercontent.com/79603235/116840960-b46e1980-aba5-11eb-8760-5652983e7e5b.gif)
-*GauGAN gif #2 - exotic*
+*GauGAN gif #2 - heat*
 
 ![gaugan_gif3](https://user-images.githubusercontent.com/79603235/116840980-bf28ae80-aba5-11eb-815f-0aaf496035dd.gif)
 *GauGAN gif #3 - growing*
