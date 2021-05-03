@@ -10,7 +10,8 @@ I wanted to create gifs which give a sense of realism, while still indicating th
 **Technical Goals:** what did you learn or understand better by making this project technically?
 After working on my midterms project, I wanted to never look at another GauGAN again because of how meticulous the whole process was.  I tested mutliple methods to design the little worlds in order to create a gif which panned smoothly.  At first, after a few trial and errors of getting the correct GauGAN color palette onto Photoshop, I drew a larger scene which I then placed into a 512x512 canvas.  I placed the starting corner on the canvas, and then saved about 50 slightly shifted or zoomed images of the drawing.  This method mostly worked, except that you can't know what cohesivity to expect of the output until you have run all of the inputs through the GAN.  With this method, it was also difficult to recall the corresponding color to what you wanted to draw in Photoshop.  The next method that I tried was done entirely on the GauGAN website.  This made it easier to include features that I wanted since I was working directly on the platform.  Howevere, instead of actually being able to shift components in the scene, I had to hand draw them moved over a little bit for every frame.  The third method was a combination of both, where the scene would be started on the GauGAN website and then download and uploaded to Phothsop to then be shifted and added on to.  All three methods provided various succesful gifs which are shown below. 
 
-**Methodology:** 
+**References:** 
+
 Nvidia GauGAN website: http://nvidia-research-mingyuliu.com/gaugan/
 
 Inspiration from: https://youtu.be/ZXFmZsv0Ddw
@@ -34,14 +35,17 @@ Inspiration from: https://youtu.be/ZXFmZsv0Ddw
 
 **EXTRA FILES**
 
+*Some sample input maps*
+
 ![38](https://user-images.githubusercontent.com/79603235/116840936-a8825780-aba5-11eb-965e-9461dfada7a8.png)
 ![9](https://user-images.githubusercontent.com/79603235/116840938-a8825780-aba5-11eb-942d-2c7a23ca0971.png)
 ![26](https://user-images.githubusercontent.com/79603235/116840939-a91aee00-aba5-11eb-84a3-75a99bc81e78.png)
 
-*Some sample input maps*
 
-![gaugan_input_colors](https://user-images.githubusercontent.com/79603235/116840796-36117780-aba5-11eb-96ae-c1122b393c02.png)
 *GauGAN color swatches drawn on the website and downloaded for reference in Photoshop*
 
-![Webp net-gifmaker](https://user-images.githubusercontent.com/79603235/116841137-3c542380-aba6-11eb-8e92-c50f616fb084.gif)
+![gaugan_input_colors](https://user-images.githubusercontent.com/79603235/116840796-36117780-aba5-11eb-96ae-c1122b393c02.png)
+
 *Sample of gif created from input maps*
+
+![Webp net-gifmaker](https://user-images.githubusercontent.com/79603235/116841137-3c542380-aba6-11eb-8e92-c50f616fb084.gif)
