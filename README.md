@@ -15,18 +15,8 @@ Nvidia GauGAN website: http://nvidia-research-mingyuliu.com/gaugan/
 Inspiration from: https://youtu.be/ZXFmZsv0Ddw
 
 **RESULTS:**
-
-![gaugan_input_colors](https://user-images.githubusercontent.com/79603235/116840796-36117780-aba5-11eb-96ae-c1122b393c02.png)
-*GauGAN color swatches drawn on the website and downloaded for reference in Photoshop*
-
-
 ![gaugan_gif1](https://user-images.githubusercontent.com/79603235/116840891-838de480-aba5-11eb-90dc-a7862fc57f47.gif)
 *GauGAN gif #1 (original project) - drive*
-
-![38](https://user-images.githubusercontent.com/79603235/116840936-a8825780-aba5-11eb-965e-9461dfada7a8.png)
-![9](https://user-images.githubusercontent.com/79603235/116840938-a8825780-aba5-11eb-942d-2c7a23ca0971.png)
-![26](https://user-images.githubusercontent.com/79603235/116840939-a91aee00-aba5-11eb-84a3-75a99bc81e78.png)
-*Some sample input maps*
 
 ![gaugan_gif2](https://user-images.githubusercontent.com/79603235/116840960-b46e1980-aba5-11eb-8760-5652983e7e5b.gif)
 *GauGAN gif #2 - exotic*
@@ -40,3 +30,14 @@ Inspiration from: https://youtu.be/ZXFmZsv0Ddw
 ![gaugan_gif5](https://user-images.githubusercontent.com/79603235/116841047-ec755c80-aba5-11eb-85bd-543ec5b9c279.gif)
 *GauGAN gif #5 - neighborhood*
 
+**EXTRA FILES**
+![38](https://user-images.githubusercontent.com/79603235/116840936-a8825780-aba5-11eb-965e-9461dfada7a8.png)
+![9](https://user-images.githubusercontent.com/79603235/116840938-a8825780-aba5-11eb-942d-2c7a23ca0971.png)
+![26](https://user-images.githubusercontent.com/79603235/116840939-a91aee00-aba5-11eb-84a3-75a99bc81e78.png)
+*Some sample input maps*
+
+![gaugan_input_colors](https://user-images.githubusercontent.com/79603235/116840796-36117780-aba5-11eb-96ae-c1122b393c02.png)
+*GauGAN color swatches drawn on the website and downloaded for reference in Photoshop*
+
+![Webp net-gifmaker](https://user-images.githubusercontent.com/79603235/116841137-3c542380-aba6-11eb-8e92-c50f616fb084.gif)
+*Sample of gif created from input maps*
