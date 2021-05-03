@@ -12,9 +12,11 @@ After working on my midterms project, I wanted to never look at another GauGAN a
 
 **Methodology:** 
 Nvidia GauGAN website: http://nvidia-research-mingyuliu.com/gaugan/
+
 Inspiration from: https://youtu.be/ZXFmZsv0Ddw
 
 **RESULTS:**
+
 ![gaugan_gif1](https://user-images.githubusercontent.com/79603235/116840891-838de480-aba5-11eb-90dc-a7862fc57f47.gif)
 *GauGAN gif #1 (original project) - drive*
 
@@ -31,9 +33,11 @@ Inspiration from: https://youtu.be/ZXFmZsv0Ddw
 *GauGAN gif #5 - neighborhood*
 
 **EXTRA FILES**
+
 ![38](https://user-images.githubusercontent.com/79603235/116840936-a8825780-aba5-11eb-965e-9461dfada7a8.png)
 ![9](https://user-images.githubusercontent.com/79603235/116840938-a8825780-aba5-11eb-942d-2c7a23ca0971.png)
 ![26](https://user-images.githubusercontent.com/79603235/116840939-a91aee00-aba5-11eb-84a3-75a99bc81e78.png)
+
 *Some sample input maps*
 
 ![gaugan_input_colors](https://user-images.githubusercontent.com/79603235/116840796-36117780-aba5-11eb-96ae-c1122b393c02.png)
